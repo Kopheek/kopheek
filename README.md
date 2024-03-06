@@ -8,8 +8,9 @@
 
 <!-- ## How to reach me -->
 **How to reach me**\
-Telegram: [@ermakcw](t.me/ermakcw)
+Telegram: [@ermakcw](t.me/ermakcw)\
 Site: [hotkot.xelene.ru](hotkot.xelene.ru/yh)
+Any: [networks](https://clck.ru/39GB3W)
 
 <!-- ## My project list 
 - Calculator (but everyone has a lot of it)
